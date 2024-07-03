@@ -16,4 +16,4 @@ I'm Raja Muhammad Farhan Zahputra!
 
 <h2>  Skills: </h2>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+(https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
