@@ -15,7 +15,7 @@ Currently, My Interest is Android Application Development👨🏻‍💻
 
 #### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024
    - Massive Project: Sporking
-     The application provides features that can facilitate users such as searching for food recipes based on search, recommendations, favorites, and categories. In addition, there is a like feature that is useful for indicating food recipes that have been liked and our MVP feature is in Scanning food ingredients that can detect food ingredients through scanning photos of food ingredients. 
+The application provides features that can facilitate users such as searching for food recipes based on search, recommendations, favorites, and categories. In addition, there is a like feature that is useful for indicating food recipes that have been liked and our MVP feature is in Scanning food ingredients that can detect food ingredients through scanning photos of food ingredients. 
    - Micro Project: SavorCraft
 
 #### 3. [Senior High School 20 Batam](https://sman20batam.sch.id/) | 2019 - 2022
