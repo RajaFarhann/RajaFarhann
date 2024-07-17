@@ -14,11 +14,13 @@ Currently, My Interest is Android Application Development👨🏻‍💻
    - Current Semester: 4
    - Chairman of Informatics Engineering Student Association
    - Project Based Learning Semester 3: [Guide Me: Aplikasi Tour Guide](https://drive.google.com/file/d/1mOakoIIkPuNyLCF2ePRMXsEdhEo-1ncx/view) (Hacker).
-      - The application is a tour guide application as a means of delivering tourist attraction information in the city of Batam. This system was developed using the Google Map API functionality using the Waterfall method in its application. The purpose of making this application is to guide users, namely domestic and foreign tourists to tourist destinations using maps from Google Maps on smartphone devices owned by users. This map serves as information about attractions, travel routes, and transportation options. <img src="https://github.com/user-attachments/assets/406abee7-2ba0-4cf6-a129-df05bcb3abd4" alt="Poster PBL IF-14-01" width="400"/>
+      - The application is a tour guide application as a means of delivering tourist attraction information in the city of Batam. This system was developed using the Google Map API functionality using the Waterfall method in its application. The purpose of making this application is to guide users, namely domestic and foreign tourists to tourist destinations using maps from Google Maps on smartphone devices owned by users. This map serves as information about attractions, travel routes, and transportation options.
+<img src="https://github.com/user-attachments/assets/406abee7-2ba0-4cf6-a129-df05bcb3abd4" alt="Poster PBL IF-14-01" width="400"/>
 
     
    - Project Based Learning Semester 2: Aplikasi Katalog Produk Perusahaan Logistik (Team Leader & Hacker).
-      - The application is a web-based application that contains products and services from logistics companies. This system allows users to view a list of products and services offered by logistics companies. This application includes information about the types of shipping services, prices, logistics company products in the form of tools related to logistics activities, and storage services.<img src="https://github.com/user-attachments/assets/3a9b307b-4d09-461e-9c6a-fb27c8f8a55d" alt="Poster PBL Sem 2" width="400"/>
+      - The application is a web-based application that contains products and services from logistics companies. This system allows users to view a list of products and services offered by logistics companies. This application includes information about the types of shipping services, prices, logistics company products in the form of tools related to logistics activities, and storage services.
+<img src="https://github.com/user-attachments/assets/3a9b307b-4d09-461e-9c6a-fb27c8f8a55d" alt="Poster PBL Sem 2" width="400"/>
 
 #### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024
    - Massive Project: [Sporking](https://github.com/RajaFarhann/Mobile-Sporking) (Hacker).
