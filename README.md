@@ -14,7 +14,7 @@ Currently, My Interest is Android Application Development👨🏻‍💻
    - Current Semester: 4
    - Chairman of Informatics Engineering Student Association
    - Project Based Learning Semester 3: [Guide Me: Aplikasi Tour Guide](https://drive.google.com/file/d/1mOakoIIkPuNyLCF2ePRMXsEdhEo-1ncx/view) (Hacker).
-      - The application is a tour guide application as a means of delivering tourist attraction information in the city of Batam. This system was developed using the Google Map API functionality using the Waterfall method in its application. The purpose of making this application is to guide users, namely domestic and foreign tourists to tourist destinations using maps from Google Maps on smartphone devices owned by users. This map serves as information about attractions, travel routes, and transportation options.<img src="https://github.com/user-attachments/assets/406abee7-2ba0-4cf6-a129-df05bcb3abd4" alt="Poster PBL IF-14-01" width="400"/>
+      - The application is a tour guide application as a means of delivering tourist attraction information in the city of Batam. This system was developed using the Google Map API functionality using the Waterfall method in its application. The purpose of making this application is to guide users, namely domestic and foreign tourists to tourist destinations using maps from Google Maps on smartphone devices owned by users. This map serves as information about attractions, travel routes, and transportation options. <img src="https://github.com/user-attachments/assets/406abee7-2ba0-4cf6-a129-df05bcb3abd4" alt="Poster PBL IF-14-01" width="400"/>
 
     
    - Project Based Learning Semester 2: Aplikasi Katalog Produk Perusahaan Logistik (Team Leader & Hacker).
