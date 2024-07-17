@@ -2,16 +2,23 @@
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=RajaFarhann.RajaFarhann)](https://github.com/RajaFarhann) [![GitHub followers](https://img.shields.io/github/followers/RajaFarhann.svg?style=social&label=Follow)](https://github.com/RajaFarhann?tab=followers)
 
-I'm Raja Muhammad Farhan Zahputra! 
-- <i>Currently:</i> Student at Batam State Polytechnic.
+I'm Raja Muhammad Farhan Zahputra!
+Currently, My Interest is Android Application Development👨🏻‍💻
+
+- <i>Current Education:</i> Student at Batam State Polytechnic.
 
 <h2> 🏫 Education:</h2>
 
-#### 1. [Batam State Polytechnic](https://www.polibatam.ac.id/) | Informatics Engineering Department | 2022 - Now
+#### 1. [Batam State Polytechnic](https://www.polibatam.ac.id/) | Informatics Engineering Department (Diploma 3) | 2022 - Now
    - Current GPA: 3.72
    - Chairman of Informatics Engineering Student Association
 
-#### 2. [Senior High School 20 Batam](https://sman20batam.sch.id/) | 2019 - 2022
+#### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024
+   - Massive Project: Sporking
+     The application provides features that can facilitate users such as searching for food recipes based on search, recommendations, favorites, and categories. In addition, there is a like feature that is useful for indicating food recipes that have been liked and our MVP feature is in Scanning food ingredients that can detect food ingredients through scanning photos of food ingredients. 
+   - Micro Project: SavorCraft
+
+#### 3. [Senior High School 20 Batam](https://sman20batam.sch.id/) | 2019 - 2022
    - Class Leader
 
 <h2>  Skills: </h2>
