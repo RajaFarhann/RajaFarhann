@@ -11,7 +11,7 @@ Currently, My Interest is Android Application Development👨🏻‍💻
 #### 1. [Batam State Polytechnic](https://www.polibatam.ac.id/) | Informatics Engineering Department (Diploma 3) | 2022 - Now
    - Current GPA: 3.70
    - Current Semester: 6
-   - Chairman of Informatics Engineering Student Association
+   - Chairman of Informatics Engineering Student Association 2024
    - Project Based Learning Semester 3: [Guide Me: Aplikasi Tour Guide](https://drive.google.com/file/d/1mOakoIIkPuNyLCF2ePRMXsEdhEo-1ncx/view) (Hacker).
       - The application is a tour guide application as a means of delivering tourist attraction information in the city of Batam. This system was developed using the Google Map API functionality using the Waterfall method in its application. The purpose of making this application is to guide users, namely domestic and foreign tourists to tourist destinations using maps from Google Maps on smartphone devices owned by users. This map serves as information about attractions, travel routes, and transportation options.
    <img src="https://github.com/user-attachments/assets/406abee7-2ba0-4cf6-a129-df05bcb3abd4" alt="Poster PBL IF-14-01" width="400"/>
