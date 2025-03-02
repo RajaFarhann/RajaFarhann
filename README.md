@@ -22,6 +22,10 @@ Currently, My Interest is Android Application Development👨🏻‍💻
    <img src="https://github.com/user-attachments/assets/3a9b307b-4d09-461e-9c6a-fb27c8f8a55d" alt="Poster PBL Sem 2" width="400"/>
 
 #### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024
+   - Internship Project: [InfiniteTrack](https://exhibition-infinite-learning.super.site/1624fb0d7d0a8061a9a6cf20feb151b6) (Hacker).
+      - Infinite Track is an application to help interns, employees and management to record attendance and leave permits, where before the application was submitted, it was still manual and the leave process was quite long.
+   <img src="https://github.com/user-attachments/assets/de4b0cee-6660-4c5d-bd81-cdc9424918c2" alt="Infinite Track" width="600"/>
+   
    - Massive Project: [Sporking](https://github.com/RajaFarhann/Mobile-Sporking) (Hacker).
       - This innovation is based on a Website and an Android Application. This innovation has several features and can be accessed through the Website and Android Application which can facilitate users in finding information about sports, such as News and Community features, and in these features, users can get complete news and information about sports. Our MVP feature lies in the Booking feature, in this feature users can find out the fields around them and users can also see the complete facilities provided by the field and make payments. 
    <img src="https://github.com/user-attachments/assets/39a7567f-3aba-4959-9065-6429f67b4570" alt="Sporking" width="600"/>
