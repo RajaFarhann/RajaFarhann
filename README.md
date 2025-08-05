@@ -21,7 +21,7 @@ Currently, My Interest is Android Application Development👨🏻‍💻
       - The application is a web-based application that contains products and services from logistics companies. This system allows users to view a list of products and services offered by logistics companies. This application includes information about the types of shipping services, prices, logistics company products in the form of tools related to logistics activities, and storage services.
    <img src="https://github.com/user-attachments/assets/3a9b307b-4d09-461e-9c6a-fb27c8f8a55d" alt="Poster PBL Sem 2" width="400"/>
 
-#### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024 | Intern Mobile Developer: Asisten Mentoring Technical | Aug 2024 - Now
+#### 2. [Infinite Learning](https://www.infinitelearning.id/) | Mentee Android Mobile Development & UI UX Design  (Studi Independen) | Feb 2024 - Jun 2024 | Intern Mobile Developer: Asisten Mentoring Technical | Aug 2024 - July 2025
    - Internship Project: [InfiniteTrack](https://exhibition-infinite-learning.super.site/1624fb0d7d0a8061a9a6cf20feb151b6) (Hacker).
       - Infinite Track is an application to help interns, employees and management to record attendance and leave permits, where before the application was submitted, it was still manual and the leave process was quite long.
    <img src="https://github.com/user-attachments/assets/de4b0cee-6660-4c5d-bd81-cdc9424918c2" alt="Infinite Track" width="600"/>
